@@ -1,1 +1,2 @@
 Sample file to clone
+this is to check the reset changes
